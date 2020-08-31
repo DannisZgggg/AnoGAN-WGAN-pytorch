@@ -14,6 +14,6 @@ albumentations>=0.4
 - Current version has supported  training for mnist datasets.
 
 ### Visualization
+![00001_TP](https://github.com/DannisZgggg/AnoGAN-WGAN-pytorch/blob/master/blobs/00001_TP.jpg/00001_TP.jpg)
 
-![00001_TP](D:\Study\git\AnoGAN-WGAN-pytorch\blobs\00001_TP.jpg)
-![00002_TN](D:\Study\git\AnoGAN-WGAN-pytorch\blobs\00002_TN.jpg)
+![00002_TN](https://github.com/DannisZgggg/AnoGAN-WGAN-pytorch/blob/master/blobs/00001_TP.jpg/00002_TN.jpg)
